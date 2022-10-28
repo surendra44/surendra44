@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @surendra44
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development.
+- 👀 I’m a MEAN Stack Developer.
+- 🌱 I’m currently working on AngularJS
 - 📫 How to reach me - mail me on surendrapilania4@gmail.com
 
 <!---
